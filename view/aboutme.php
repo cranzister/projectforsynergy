@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-    <tittle>Главная</tittle>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -48,7 +47,7 @@
       <a href="https://www.google.ru/maps/place/%D1%83%D0%BB.+%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B0,+%D0%9A%D0%BE%D0%B2%D1%80%D0%BE%D0%B2,+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+601900/@56.373314,41.3026921,17z/data=!3m1!4b1!4m6!3m5!1s0x414c4911d75c7a3d:0x1119c3efb3e9a8d1!8m2!3d56.373314!4d41.305267!16s%2Fg%2F1jkyprp7p?entry=ttu">ул.им.Васильева Василия</a>
     </p>
        <p>
-       <a href="https://www.google.ru/maps/place/%D1%83%D0%BB.+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0,+%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%86%D0%B5%D0%B2%D0%BE,+%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+141352/@56.2160974,37.9700656,17z/data=!3m1!4b1!4m6!3m5!1s0x46b4dbb6454f1cf3:0x8ebddc2680b8003e!8m2!3d56.2160974!4d37.9726405!16s%2Fg%2F11bx1_gr3x?entry=ttu">ул.им.Александрова Аександра</a>
+       <a href="https://www.google.ru/maps/place/%D1%83%D0%BB.+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0,+%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%86%D0%B5%D0%B2%D0%BE,+%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.,+141352/@56.2160974,37.9700656,17z/data=!3m1!4b1!4m6!3m5!1s0x46b4dbb6454f1cf3:0x8ebddc2680b8003e!8m2!3d56.2160974!4d37.9726405!16s%2Fg%2F11bx1_gr3x?entry=ttu">ул.им.Александрова Александра</a>
     </p>
     <p>
         <div class="text-left text-white">
